@@ -1,6 +1,6 @@
 ## Juego Laser Tag
 
-Diseño de un juego de laser.
+Diseño de un juego de laser desarrollado en C para un microcontrolador PIC32, utilizando MPLAB X IDE con el compilador XC32.
 
 # Especificación del proyecto
 
