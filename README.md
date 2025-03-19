@@ -1,8 +1,8 @@
-# Juego Laser Tag
+## Juego Laser Tag
 
 Diseño de un juego de laser.
 
-Especificación del proyecto
+# Especificación del proyecto
 
 El objetivo de este proyecto es desarrollar un juego que consiste en una "pistola" que
 emita luz, controlado por joystick y servomotores, que permita “disparar” a una diana
@@ -20,7 +20,7 @@ movimiento mediante el joystick y los servomotores, la diana equipada con el sen
 de infrarrojos, la recepción de los puntos por bluetooth al PC, la alarma que tendrá
 que sonar, y la electrónica necesaria para controlar el sistema.
 
-Componentes
+# Componentes
 
 Para construir el sistema, se utilizarán los siguientes componentes:
 • Fotodiodos
