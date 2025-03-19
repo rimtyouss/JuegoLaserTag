@@ -2,7 +2,7 @@
 
 Diseño de un juego de laser.
 
-# Especificación del proyecto
+# Especificación del proyecto
 
 El objetivo de este proyecto es desarrollar un juego que consiste en una "pistola" que
 emita luz, controlado por joystick y servomotores, que permita “disparar” a una diana
